@@ -1,0 +1,2143 @@
+fileFormatVersion: 2
+guid: b4fbe61e55ad0d3408e29f46e8281e10
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Archipack_snap_helper
+    100002: Archipack_snap_helper.001
+    100004: Archipack_snap_helper.002
+    100006: Area.000
+    100008: Area.001
+    100010: Area.003
+    100012: Area.004
+    100014: //RootNode
+    100016: Cube
+    100018: Cube.001
+    100020: Cube.002
+    100022: Cube.003
+    100024: Cube.004
+    100026: Cube.005
+    100028: Cube.006
+    100030: Cube.007
+    100032: Cube.008
+    100034: Cube.009
+    100036: Cube.010
+    100038: Cube.011
+    100040: Cube.012
+    100042: Cube.013
+    100044: Cube.014
+    100046: Cube.015
+    100048: Cube.016
+    100050: Cube.017
+    100052: Cube.018
+    100054: Cube.019
+    100056: Cube.020
+    100058: Cube.021
+    100060: Cube.022
+    100062: Cube.023
+    100064: Cube.024
+    100066: Cube.025
+    100068: Cube.026
+    100070: Cube.027
+    100072: Cube.028
+    100074: Cube.029
+    100076: Cube.030
+    100078: Cube.031
+    100080: Cube.032
+    100082: Cube.033
+    100084: Cube.034
+    100086: Cube.035
+    100088: Cube.036
+    100090: Cube.037
+    100092: Cube.038
+    100094: Cube.039
+    100096: Cube.040
+    100098: Cube.041
+    100100: Cube.042
+    100102: Cube.043
+    100104: Cube.044
+    100106: Cube.045
+    100108: Cube.046
+    100110: Cube.047
+    100112: Cube.048
+    100114: Cube.049
+    100116: Cube.050
+    100118: Cube.051
+    100120: Cube.052
+    100122: Cube.053
+    100124: Cube.054
+    100126: Cube.055
+    100128: Cube.056
+    100130: Cube.057
+    100132: Cube.058
+    100134: Cube.059
+    100136: Cube.060
+    100138: Cube.061
+    100140: Cube.062
+    100142: Cube.063
+    100144: Cube.064
+    100146: Cube.065
+    100148: Cube.066
+    100150: Cube.067
+    100152: Cube.068
+    100154: Cube.069
+    100156: Cube.070
+    100158: Cube.071
+    100160: Cube.075
+    100162: Cube.076
+    100164: Cube.077
+    100166: Cube.078
+    100168: Cube.079
+    100170: Cube.080
+    100172: Cube.081
+    100174: Cube.082
+    100176: Cube.083
+    100178: Cube.084
+    100180: Cube.085
+    100182: Cube.086
+    100184: Cube.087
+    100186: Cube.088
+    100188: Cube.089
+    100190: Cube.090
+    100192: Cube.091
+    100194: Cube.092
+    100196: Cube.093
+    100198: Cube.094
+    100200: Cube.095
+    100202: Cube.096
+    100204: Cube.097
+    100206: Cube.098
+    100208: Cube.099
+    100210: Cube.100
+    100212: Cube.101
+    100214: Cube.102
+    100216: Cube.103
+    100218: Cube.104
+    100220: Cube.105
+    100222: Cube.106
+    100224: Cube.107
+    100226: Cube.108
+    100228: Cube.109
+    100230: Cube.110
+    100232: Cube.111
+    100234: Cube.112
+    100236: Cube.113
+    100238: Cube.114
+    100240: Cube.115
+    100242: Cube.116
+    100244: Cube.117
+    100246: Cube.118
+    100248: Cube.120
+    100250: Cube.121
+    100252: Cube.122
+    100254: Cube.123
+    100256: Cube.125
+    100258: Cube.126
+    100260: Cube.130
+    100262: Cube.131
+    100264: Cube.132
+    100266: Cube.133
+    100268: Cube.134
+    100270: Cube.135
+    100272: Cube.136
+    100274: Cube.137
+    100276: Cube.138
+    100278: Cube.139
+    100280: Cube.140
+    100282: Cube.141
+    100284: Cube.142
+    100286: Cube.144
+    100288: Cube.146
+    100290: Cube.147
+    100292: Cube.148
+    100294: Cube.149
+    100296: Cube.150
+    100298: Cube.151
+    100300: Cube.152
+    100302: Cube.153
+    100304: Cube.154
+    100306: Cube.155
+    100308: Cube.156
+    100310: Cube.157
+    100312: Cube.158
+    100314: Cube.159
+    100316: Cube.161
+    100318: Cube.162
+    100320: Cube.163
+    100322: Cube.164
+    100324: Cube.165
+    100326: Cube.166
+    100328: Cube.167
+    100330: Cube.168
+    100332: Cube.169
+    100334: Cube.170
+    100336: Cube.171
+    100338: Cube.172
+    100340: Cube.173
+    100342: Cube.174
+    100344: Cube.175
+    100346: Cube.176
+    100348: Cube.177
+    100350: Cube.178
+    100352: Cube.179
+    100354: Cube.180
+    100356: Cube.181
+    100358: Cube.182
+    100360: Cube.183
+    100362: Cube.184
+    100364: Cube.185
+    100366: Cube.186
+    100368: Cube.187
+    100370: Cube.188
+    100372: Cube.189
+    100374: Cube.190
+    100376: Cube.191
+    100378: Cube.192
+    100380: Cube.193
+    100382: Cube.194
+    100384: Cube.195
+    100386: Cube.196
+    100388: Cube.197
+    100390: Cube.198
+    100392: Cube.199
+    100394: Cube.200
+    100396: Cube.201
+    100398: Cube.202
+    100400: Cube.203
+    100402: Cube.204
+    100404: Cube.205
+    100406: Cube.206
+    100408: Cube.207
+    100410: Cube.208
+    100412: Cube.209
+    100414: Cube.210
+    100416: Cube.211
+    100418: Cube.212
+    100420: Cube.213
+    100422: Cube.214
+    100424: Cube.215
+    100426: Cube.216
+    100428: Cube.217
+    100430: Cube.218
+    100432: Cube.219
+    100434: Cube.220
+    100436: Cube.221
+    100438: Cube.222
+    100440: Cube.223
+    100442: Cube.224
+    100444: Cube.225
+    100446: Cube.226
+    100448: Cube.227
+    100450: Cube.228
+    100452: Cube.229
+    100454: Cube.230
+    100456: Cylinder
+    100458: Cylinder.001
+    100460: Door
+    100462: Door.001
+    100464: Door.002
+    100466: Door.003
+    100468: Door.004
+    100470: Door.005
+    100472: Door.006
+    100474: Door.007
+    100476: Door.008
+    100478: Door.009
+    100480: Door.010
+    100482: Door.011
+    100484: Door.012
+    100486: Fence
+    100488: Fence.001
+    100490: Fence.002
+    100492: Fence.003
+    100494: Fence.004
+    100496: Fence.005
+    100498: Fence.006
+    100500: Fence.007
+    100502: Handle
+    100504: Handle.001
+    100506: Handle.002
+    100508: Handle.003
+    100510: Handle.004
+    100512: Handle.005
+    100514: Handle.006
+    100516: Handle.007
+    100518: Handle.008
+    100520: Handle.009
+    100522: Handle.010
+    100524: Handle.011
+    100526: Handle.012
+    100528: Handle.013
+    100530: Handle.014
+    100532: Handle.015
+    100534: Handle.016
+    100536: Panel
+    100538: Panel.001
+    100540: Panel.002
+    100542: Panel.003
+    100544: Panel.004
+    100546: Panel.005
+    100548: Panel.006
+    100550: Panel.007
+    100552: Panel.008
+    100554: Panel.009
+    100556: Panel.010
+    100558: Panel.011
+    100560: Panel.012
+    100562: Panel.013
+    100564: Panel.014
+    100566: Panel.015
+    100568: Panel.016
+    100570: Panel.017
+    100572: Panel.018
+    100574: Panel.019
+    100576: Plane
+    100578: Plane.001
+    100580: Plane.002
+    100582: Plane.003
+    100584: Plane.004
+    100586: Plane.005
+    100588: Plane.006
+    100590: Plane.007
+    100592: Plane.008
+    100594: Plane.009
+    100596: Plane.010
+    100598: Plane.011
+    100600: Plane.012
+    100602: Plane.013
+    100604: Plane.014
+    100606: Plane.015
+    100608: Plane.016
+    100610: Plane.017
+    100612: Plane.018
+    100614: Plane.019
+    100616: Roof
+    100618: Stair
+    100620: Stair.001
+    100622: Stair.002
+    100624: Stair.003
+    100626: Stair.004
+    100628: Stair.005
+    100630: Stair.006
+    100632: Stair.007
+    100634: Stair.008
+    100636: Stair.009
+    100638: Stair.010
+    100640: Stair.011
+    100642: Stairs
+    100644: Stairs.001
+    100646: Stairs.002
+    100648: Stairs.003
+    100650: Stairs.004
+    100652: Stairs.005
+    100654: Stairs.006
+    100656: Truss
+    100658: Truss.001
+    100660: Truss.002
+    100662: Truss.003
+    100664: Truss.004
+    100666: Truss.005
+    100668: Window
+    100670: Window Panel
+    100672: Window Panel.000
+    100674: Window Panel.001
+    100676: Window Panel.002
+    100678: Window Panel.003
+    100680: Window Panel.004
+    100682: Window Panel.005
+    100684: Window Panel.006
+    100686: Window Panel.007
+    100688: Window Panel.008
+    100690: Window Panel.009
+    100692: Window Panel.010
+    100694: Window Panel.011
+    100696: Window Panel.012
+    100698: Window Panel.013
+    100700: Window Panel.014
+    100702: Window Panel.015
+    100704: Window Panel.016
+    100706: Window Panel.017
+    100708: Window Panel.018
+    100710: Window Panel.019
+    100712: Window Panel.020
+    100714: Window Panel.021
+    100716: Window Panel.022
+    100718: Window Panel.023
+    100720: Window Panel.024
+    100722: Window Panel.025
+    100724: Window Panel.026
+    100726: Window Panel.027
+    100728: Window Panel.028
+    100730: Window Panel.029
+    100732: Window Panel.030
+    100734: Window Panel.031
+    100736: Window Panel.032
+    100738: Window Panel.033
+    100740: Window Panel.034
+    100742: Window Panel.035
+    100744: Window Panel.036
+    100746: Window Panel.037
+    100748: Window Panel.038
+    100750: Window.001
+    100752: Window.002
+    100754: Window.003
+    100756: Window.004
+    100758: Window.005
+    100760: Window.006
+    100762: Window.007
+    100764: Window.008
+    100766: Window.009
+    100768: Window.010
+    100770: Window.011
+    100772: Window.012
+    100774: Window.013
+    100776: Window.014
+    100778: Window.015
+    100780: Window.016
+    100782: Window.017
+    100784: Window.018
+    100786: Window.019
+    100788: Window.020
+    100790: Window.021
+    100792: Window.022
+    100794: Window.023
+    100796: Window.024
+    100798: Window.025
+    100800: Window.026
+    400000: Archipack_snap_helper
+    400002: Archipack_snap_helper.001
+    400004: Archipack_snap_helper.002
+    400006: Area.000
+    400008: Area.001
+    400010: Area.003
+    400012: Area.004
+    400014: //RootNode
+    400016: Cube
+    400018: Cube.001
+    400020: Cube.002
+    400022: Cube.003
+    400024: Cube.004
+    400026: Cube.005
+    400028: Cube.006
+    400030: Cube.007
+    400032: Cube.008
+    400034: Cube.009
+    400036: Cube.010
+    400038: Cube.011
+    400040: Cube.012
+    400042: Cube.013
+    400044: Cube.014
+    400046: Cube.015
+    400048: Cube.016
+    400050: Cube.017
+    400052: Cube.018
+    400054: Cube.019
+    400056: Cube.020
+    400058: Cube.021
+    400060: Cube.022
+    400062: Cube.023
+    400064: Cube.024
+    400066: Cube.025
+    400068: Cube.026
+    400070: Cube.027
+    400072: Cube.028
+    400074: Cube.029
+    400076: Cube.030
+    400078: Cube.031
+    400080: Cube.032
+    400082: Cube.033
+    400084: Cube.034
+    400086: Cube.035
+    400088: Cube.036
+    400090: Cube.037
+    400092: Cube.038
+    400094: Cube.039
+    400096: Cube.040
+    400098: Cube.041
+    400100: Cube.042
+    400102: Cube.043
+    400104: Cube.044
+    400106: Cube.045
+    400108: Cube.046
+    400110: Cube.047
+    400112: Cube.048
+    400114: Cube.049
+    400116: Cube.050
+    400118: Cube.051
+    400120: Cube.052
+    400122: Cube.053
+    400124: Cube.054
+    400126: Cube.055
+    400128: Cube.056
+    400130: Cube.057
+    400132: Cube.058
+    400134: Cube.059
+    400136: Cube.060
+    400138: Cube.061
+    400140: Cube.062
+    400142: Cube.063
+    400144: Cube.064
+    400146: Cube.065
+    400148: Cube.066
+    400150: Cube.067
+    400152: Cube.068
+    400154: Cube.069
+    400156: Cube.070
+    400158: Cube.071
+    400160: Cube.075
+    400162: Cube.076
+    400164: Cube.077
+    400166: Cube.078
+    400168: Cube.079
+    400170: Cube.080
+    400172: Cube.081
+    400174: Cube.082
+    400176: Cube.083
+    400178: Cube.084
+    400180: Cube.085
+    400182: Cube.086
+    400184: Cube.087
+    400186: Cube.088
+    400188: Cube.089
+    400190: Cube.090
+    400192: Cube.091
+    400194: Cube.092
+    400196: Cube.093
+    400198: Cube.094
+    400200: Cube.095
+    400202: Cube.096
+    400204: Cube.097
+    400206: Cube.098
+    400208: Cube.099
+    400210: Cube.100
+    400212: Cube.101
+    400214: Cube.102
+    400216: Cube.103
+    400218: Cube.104
+    400220: Cube.105
+    400222: Cube.106
+    400224: Cube.107
+    400226: Cube.108
+    400228: Cube.109
+    400230: Cube.110
+    400232: Cube.111
+    400234: Cube.112
+    400236: Cube.113
+    400238: Cube.114
+    400240: Cube.115
+    400242: Cube.116
+    400244: Cube.117
+    400246: Cube.118
+    400248: Cube.120
+    400250: Cube.121
+    400252: Cube.122
+    400254: Cube.123
+    400256: Cube.125
+    400258: Cube.126
+    400260: Cube.130
+    400262: Cube.131
+    400264: Cube.132
+    400266: Cube.133
+    400268: Cube.134
+    400270: Cube.135
+    400272: Cube.136
+    400274: Cube.137
+    400276: Cube.138
+    400278: Cube.139
+    400280: Cube.140
+    400282: Cube.141
+    400284: Cube.142
+    400286: Cube.144
+    400288: Cube.146
+    400290: Cube.147
+    400292: Cube.148
+    400294: Cube.149
+    400296: Cube.150
+    400298: Cube.151
+    400300: Cube.152
+    400302: Cube.153
+    400304: Cube.154
+    400306: Cube.155
+    400308: Cube.156
+    400310: Cube.157
+    400312: Cube.158
+    400314: Cube.159
+    400316: Cube.161
+    400318: Cube.162
+    400320: Cube.163
+    400322: Cube.164
+    400324: Cube.165
+    400326: Cube.166
+    400328: Cube.167
+    400330: Cube.168
+    400332: Cube.169
+    400334: Cube.170
+    400336: Cube.171
+    400338: Cube.172
+    400340: Cube.173
+    400342: Cube.174
+    400344: Cube.175
+    400346: Cube.176
+    400348: Cube.177
+    400350: Cube.178
+    400352: Cube.179
+    400354: Cube.180
+    400356: Cube.181
+    400358: Cube.182
+    400360: Cube.183
+    400362: Cube.184
+    400364: Cube.185
+    400366: Cube.186
+    400368: Cube.187
+    400370: Cube.188
+    400372: Cube.189
+    400374: Cube.190
+    400376: Cube.191
+    400378: Cube.192
+    400380: Cube.193
+    400382: Cube.194
+    400384: Cube.195
+    400386: Cube.196
+    400388: Cube.197
+    400390: Cube.198
+    400392: Cube.199
+    400394: Cube.200
+    400396: Cube.201
+    400398: Cube.202
+    400400: Cube.203
+    400402: Cube.204
+    400404: Cube.205
+    400406: Cube.206
+    400408: Cube.207
+    400410: Cube.208
+    400412: Cube.209
+    400414: Cube.210
+    400416: Cube.211
+    400418: Cube.212
+    400420: Cube.213
+    400422: Cube.214
+    400424: Cube.215
+    400426: Cube.216
+    400428: Cube.217
+    400430: Cube.218
+    400432: Cube.219
+    400434: Cube.220
+    400436: Cube.221
+    400438: Cube.222
+    400440: Cube.223
+    400442: Cube.224
+    400444: Cube.225
+    400446: Cube.226
+    400448: Cube.227
+    400450: Cube.228
+    400452: Cube.229
+    400454: Cube.230
+    400456: Cylinder
+    400458: Cylinder.001
+    400460: Door
+    400462: Door.001
+    400464: Door.002
+    400466: Door.003
+    400468: Door.004
+    400470: Door.005
+    400472: Door.006
+    400474: Door.007
+    400476: Door.008
+    400478: Door.009
+    400480: Door.010
+    400482: Door.011
+    400484: Door.012
+    400486: Fence
+    400488: Fence.001
+    400490: Fence.002
+    400492: Fence.003
+    400494: Fence.004
+    400496: Fence.005
+    400498: Fence.006
+    400500: Fence.007
+    400502: Handle
+    400504: Handle.001
+    400506: Handle.002
+    400508: Handle.003
+    400510: Handle.004
+    400512: Handle.005
+    400514: Handle.006
+    400516: Handle.007
+    400518: Handle.008
+    400520: Handle.009
+    400522: Handle.010
+    400524: Handle.011
+    400526: Handle.012
+    400528: Handle.013
+    400530: Handle.014
+    400532: Handle.015
+    400534: Handle.016
+    400536: Panel
+    400538: Panel.001
+    400540: Panel.002
+    400542: Panel.003
+    400544: Panel.004
+    400546: Panel.005
+    400548: Panel.006
+    400550: Panel.007
+    400552: Panel.008
+    400554: Panel.009
+    400556: Panel.010
+    400558: Panel.011
+    400560: Panel.012
+    400562: Panel.013
+    400564: Panel.014
+    400566: Panel.015
+    400568: Panel.016
+    400570: Panel.017
+    400572: Panel.018
+    400574: Panel.019
+    400576: Plane
+    400578: Plane.001
+    400580: Plane.002
+    400582: Plane.003
+    400584: Plane.004
+    400586: Plane.005
+    400588: Plane.006
+    400590: Plane.007
+    400592: Plane.008
+    400594: Plane.009
+    400596: Plane.010
+    400598: Plane.011
+    400600: Plane.012
+    400602: Plane.013
+    400604: Plane.014
+    400606: Plane.015
+    400608: Plane.016
+    400610: Plane.017
+    400612: Plane.018
+    400614: Plane.019
+    400616: Roof
+    400618: Stair
+    400620: Stair.001
+    400622: Stair.002
+    400624: Stair.003
+    400626: Stair.004
+    400628: Stair.005
+    400630: Stair.006
+    400632: Stair.007
+    400634: Stair.008
+    400636: Stair.009
+    400638: Stair.010
+    400640: Stair.011
+    400642: Stairs
+    400644: Stairs.001
+    400646: Stairs.002
+    400648: Stairs.003
+    400650: Stairs.004
+    400652: Stairs.005
+    400654: Stairs.006
+    400656: Truss
+    400658: Truss.001
+    400660: Truss.002
+    400662: Truss.003
+    400664: Truss.004
+    400666: Truss.005
+    400668: Window
+    400670: Window Panel
+    400672: Window Panel.000
+    400674: Window Panel.001
+    400676: Window Panel.002
+    400678: Window Panel.003
+    400680: Window Panel.004
+    400682: Window Panel.005
+    400684: Window Panel.006
+    400686: Window Panel.007
+    400688: Window Panel.008
+    400690: Window Panel.009
+    400692: Window Panel.010
+    400694: Window Panel.011
+    400696: Window Panel.012
+    400698: Window Panel.013
+    400700: Window Panel.014
+    400702: Window Panel.015
+    400704: Window Panel.016
+    400706: Window Panel.017
+    400708: Window Panel.018
+    400710: Window Panel.019
+    400712: Window Panel.020
+    400714: Window Panel.021
+    400716: Window Panel.022
+    400718: Window Panel.023
+    400720: Window Panel.024
+    400722: Window Panel.025
+    400724: Window Panel.026
+    400726: Window Panel.027
+    400728: Window Panel.028
+    400730: Window Panel.029
+    400732: Window Panel.030
+    400734: Window Panel.031
+    400736: Window Panel.032
+    400738: Window Panel.033
+    400740: Window Panel.034
+    400742: Window Panel.035
+    400744: Window Panel.036
+    400746: Window Panel.037
+    400748: Window Panel.038
+    400750: Window.001
+    400752: Window.002
+    400754: Window.003
+    400756: Window.004
+    400758: Window.005
+    400760: Window.006
+    400762: Window.007
+    400764: Window.008
+    400766: Window.009
+    400768: Window.010
+    400770: Window.011
+    400772: Window.012
+    400774: Window.013
+    400776: Window.014
+    400778: Window.015
+    400780: Window.016
+    400782: Window.017
+    400784: Window.018
+    400786: Window.019
+    400788: Window.020
+    400790: Window.021
+    400792: Window.022
+    400794: Window.023
+    400796: Window.024
+    400798: Window.025
+    400800: Window.026
+    2100000: No Name
+    2100002: Red
+    2100004: TIANG
+    2100006: White
+    2100008: Material.005
+    2100010: Aspal.001
+    2100012: Material.004
+    2100014: Floor Marble 2.001
+    2100016: Glass
+    2100018: Pinggir jalan 2
+    2100020: Rumput 2
+    2100022: Floor Marble 2
+    2100024: Material.003
+    2100026: Marble Brick
+    2100028: Pinggir Jalan
+    2100030: Rumput
+    2100032: Material
+    2100034: Glass Default
+    2100036: Pintu
+    2100038: Floor Marble
+    2100040: Aspal
+    2100042: TS
+    2100044: Red White
+    2100046: Stairs_material
+    2100048: Window_outside
+    2100050: Window_inside
+    2100052: Window_stone
+    2100054: Window_metal
+    2100056: Window_glass
+    2100058: Handle_inside
+    2100060: Door_inside
+    2100062: Door_outside
+    2100064: Roof_rakes
+    2100066: Roof_eaves
+    2100068: Roof_ridge
+    2100070: Roof_hip_tiles
+    2100072: Roof_valley
+    2100074: Roof_sheeting
+    2100076: Roof_rafter
+    2100078: Roof_tiles3
+    2100080: Roof_tiles
+    2100082: Roof_tiles4
+    2100084: Roof_tiles2
+    2100086: Stair_wood
+    2100088: Stair_white
+    2100090: Stair_metal
+    2100092: Stair_ceiling
+    2100094: Material.002
+    2100096: Fence_metal.000
+    2100098: Fence_wood
+    2100100: Truss_truss
+    2100102: Material.006
+    2100104: Fence_concrete
+    2100106: Fence_metal.001
+    2100108: Tiang
+    2100110: Material.001
+    2100112: Material.007
+    2300000: Archipack_snap_helper
+    2300002: Archipack_snap_helper.001
+    2300004: Archipack_snap_helper.002
+    2300006: Cube
+    2300008: Cube.001
+    2300010: Cube.002
+    2300012: Cube.003
+    2300014: Cube.004
+    2300016: Cube.005
+    2300018: Cube.006
+    2300020: Cube.007
+    2300022: Cube.008
+    2300024: Cube.009
+    2300026: Cube.010
+    2300028: Cube.011
+    2300030: Cube.012
+    2300032: Cube.013
+    2300034: Cube.014
+    2300036: Cube.015
+    2300038: Cube.016
+    2300040: Cube.017
+    2300042: Cube.018
+    2300044: Cube.019
+    2300046: Cube.020
+    2300048: Cube.021
+    2300050: Cube.022
+    2300052: Cube.023
+    2300054: Cube.024
+    2300056: Cube.025
+    2300058: Cube.026
+    2300060: Cube.027
+    2300062: Cube.028
+    2300064: Cube.029
+    2300066: Cube.030
+    2300068: Cube.031
+    2300070: Cube.032
+    2300072: Cube.033
+    2300074: Cube.034
+    2300076: Cube.035
+    2300078: Cube.036
+    2300080: Cube.037
+    2300082: Cube.038
+    2300084: Cube.039
+    2300086: Cube.040
+    2300088: Cube.041
+    2300090: Cube.042
+    2300092: Cube.043
+    2300094: Cube.044
+    2300096: Cube.045
+    2300098: Cube.046
+    2300100: Cube.047
+    2300102: Cube.048
+    2300104: Cube.049
+    2300106: Cube.050
+    2300108: Cube.051
+    2300110: Cube.052
+    2300112: Cube.053
+    2300114: Cube.054
+    2300116: Cube.055
+    2300118: Cube.056
+    2300120: Cube.057
+    2300122: Cube.058
+    2300124: Cube.059
+    2300126: Cube.060
+    2300128: Cube.061
+    2300130: Cube.062
+    2300132: Cube.063
+    2300134: Cube.064
+    2300136: Cube.065
+    2300138: Cube.066
+    2300140: Cube.067
+    2300142: Cube.068
+    2300144: Cube.069
+    2300146: Cube.070
+    2300148: Cube.071
+    2300150: Cube.075
+    2300152: Cube.076
+    2300154: Cube.077
+    2300156: Cube.078
+    2300158: Cube.079
+    2300160: Cube.080
+    2300162: Cube.081
+    2300164: Cube.082
+    2300166: Cube.083
+    2300168: Cube.084
+    2300170: Cube.085
+    2300172: Cube.086
+    2300174: Cube.087
+    2300176: Cube.088
+    2300178: Cube.089
+    2300180: Cube.090
+    2300182: Cube.091
+    2300184: Cube.092
+    2300186: Cube.093
+    2300188: Cube.094
+    2300190: Cube.095
+    2300192: Cube.096
+    2300194: Cube.097
+    2300196: Cube.098
+    2300198: Cube.099
+    2300200: Cube.100
+    2300202: Cube.101
+    2300204: Cube.102
+    2300206: Cube.103
+    2300208: Cube.104
+    2300210: Cube.105
+    2300212: Cube.106
+    2300214: Cube.107
+    2300216: Cube.108
+    2300218: Cube.109
+    2300220: Cube.110
+    2300222: Cube.111
+    2300224: Cube.112
+    2300226: Cube.113
+    2300228: Cube.114
+    2300230: Cube.115
+    2300232: Cube.116
+    2300234: Cube.117
+    2300236: Cube.118
+    2300238: Cube.120
+    2300240: Cube.121
+    2300242: Cube.122
+    2300244: Cube.123
+    2300246: Cube.125
+    2300248: Cube.126
+    2300250: Cube.130
+    2300252: Cube.131
+    2300254: Cube.132
+    2300256: Cube.133
+    2300258: Cube.134
+    2300260: Cube.135
+    2300262: Cube.136
+    2300264: Cube.137
+    2300266: Cube.138
+    2300268: Cube.139
+    2300270: Cube.140
+    2300272: Cube.141
+    2300274: Cube.142
+    2300276: Cube.144
+    2300278: Cube.146
+    2300280: Cube.147
+    2300282: Cube.148
+    2300284: Cube.149
+    2300286: Cube.150
+    2300288: Cube.151
+    2300290: Cube.152
+    2300292: Cube.153
+    2300294: Cube.154
+    2300296: Cube.155
+    2300298: Cube.156
+    2300300: Cube.157
+    2300302: Cube.158
+    2300304: Cube.159
+    2300306: Cube.161
+    2300308: Cube.162
+    2300310: Cube.163
+    2300312: Cube.164
+    2300314: Cube.165
+    2300316: Cube.166
+    2300318: Cube.167
+    2300320: Cube.168
+    2300322: Cube.169
+    2300324: Cube.170
+    2300326: Cube.171
+    2300328: Cube.172
+    2300330: Cube.173
+    2300332: Cube.174
+    2300334: Cube.175
+    2300336: Cube.176
+    2300338: Cube.177
+    2300340: Cube.178
+    2300342: Cube.179
+    2300344: Cube.180
+    2300346: Cube.181
+    2300348: Cube.182
+    2300350: Cube.183
+    2300352: Cube.184
+    2300354: Cube.185
+    2300356: Cube.186
+    2300358: Cube.187
+    2300360: Cube.188
+    2300362: Cube.189
+    2300364: Cube.190
+    2300366: Cube.191
+    2300368: Cube.192
+    2300370: Cube.193
+    2300372: Cube.194
+    2300374: Cube.195
+    2300376: Cube.196
+    2300378: Cube.197
+    2300380: Cube.198
+    2300382: Cube.199
+    2300384: Cube.200
+    2300386: Cube.201
+    2300388: Cube.202
+    2300390: Cube.203
+    2300392: Cube.204
+    2300394: Cube.205
+    2300396: Cube.206
+    2300398: Cube.207
+    2300400: Cube.208
+    2300402: Cube.209
+    2300404: Cube.210
+    2300406: Cube.211
+    2300408: Cube.212
+    2300410: Cube.213
+    2300412: Cube.214
+    2300414: Cube.215
+    2300416: Cube.216
+    2300418: Cube.217
+    2300420: Cube.218
+    2300422: Cube.219
+    2300424: Cube.220
+    2300426: Cube.221
+    2300428: Cube.222
+    2300430: Cube.223
+    2300432: Cube.224
+    2300434: Cube.225
+    2300436: Cube.226
+    2300438: Cube.227
+    2300440: Cube.228
+    2300442: Cube.229
+    2300444: Cube.230
+    2300446: Cylinder
+    2300448: Cylinder.001
+    2300450: Door
+    2300452: Door.001
+    2300454: Door.002
+    2300456: Door.003
+    2300458: Door.004
+    2300460: Door.005
+    2300462: Door.006
+    2300464: Door.007
+    2300466: Door.008
+    2300468: Door.009
+    2300470: Door.010
+    2300472: Door.011
+    2300474: Door.012
+    2300476: Fence
+    2300478: Fence.001
+    2300480: Fence.002
+    2300482: Fence.003
+    2300484: Fence.004
+    2300486: Fence.005
+    2300488: Fence.006
+    2300490: Fence.007
+    2300492: Handle
+    2300494: Handle.001
+    2300496: Handle.002
+    2300498: Handle.003
+    2300500: Handle.004
+    2300502: Handle.005
+    2300504: Handle.006
+    2300506: Handle.007
+    2300508: Handle.008
+    2300510: Handle.009
+    2300512: Handle.010
+    2300514: Handle.011
+    2300516: Handle.012
+    2300518: Handle.013
+    2300520: Handle.014
+    2300522: Handle.015
+    2300524: Handle.016
+    2300526: Panel
+    2300528: Panel.001
+    2300530: Panel.002
+    2300532: Panel.003
+    2300534: Panel.004
+    2300536: Panel.005
+    2300538: Panel.006
+    2300540: Panel.007
+    2300542: Panel.008
+    2300544: Panel.009
+    2300546: Panel.010
+    2300548: Panel.011
+    2300550: Panel.012
+    2300552: Panel.013
+    2300554: Panel.014
+    2300556: Panel.015
+    2300558: Panel.016
+    2300560: Panel.017
+    2300562: Panel.018
+    2300564: Panel.019
+    2300566: Plane
+    2300568: Plane.001
+    2300570: Plane.002
+    2300572: Plane.003
+    2300574: Plane.004
+    2300576: Plane.005
+    2300578: Plane.006
+    2300580: Plane.007
+    2300582: Plane.008
+    2300584: Plane.009
+    2300586: Plane.010
+    2300588: Plane.011
+    2300590: Plane.012
+    2300592: Plane.013
+    2300594: Plane.014
+    2300596: Plane.015
+    2300598: Plane.016
+    2300600: Plane.017
+    2300602: Plane.018
+    2300604: Plane.019
+    2300606: Roof
+    2300608: Stair
+    2300610: Stair.001
+    2300612: Stair.002
+    2300614: Stair.003
+    2300616: Stair.004
+    2300618: Stair.005
+    2300620: Stair.006
+    2300622: Stair.007
+    2300624: Stair.008
+    2300626: Stair.009
+    2300628: Stair.010
+    2300630: Stair.011
+    2300632: Stairs
+    2300634: Stairs.001
+    2300636: Stairs.002
+    2300638: Stairs.003
+    2300640: Stairs.004
+    2300642: Stairs.005
+    2300644: Stairs.006
+    2300646: Truss
+    2300648: Truss.001
+    2300650: Truss.002
+    2300652: Truss.003
+    2300654: Truss.004
+    2300656: Truss.005
+    2300658: Window
+    2300660: Window Panel
+    2300662: Window Panel.000
+    2300664: Window Panel.001
+    2300666: Window Panel.002
+    2300668: Window Panel.003
+    2300670: Window Panel.004
+    2300672: Window Panel.005
+    2300674: Window Panel.006
+    2300676: Window Panel.007
+    2300678: Window Panel.008
+    2300680: Window Panel.009
+    2300682: Window Panel.010
+    2300684: Window Panel.011
+    2300686: Window Panel.012
+    2300688: Window Panel.013
+    2300690: Window Panel.014
+    2300692: Window Panel.015
+    2300694: Window Panel.016
+    2300696: Window Panel.017
+    2300698: Window Panel.018
+    2300700: Window Panel.019
+    2300702: Window Panel.020
+    2300704: Window Panel.021
+    2300706: Window Panel.022
+    2300708: Window Panel.023
+    2300710: Window Panel.024
+    2300712: Window Panel.025
+    2300714: Window Panel.026
+    2300716: Window Panel.027
+    2300718: Window Panel.028
+    2300720: Window Panel.029
+    2300722: Window Panel.030
+    2300724: Window Panel.031
+    2300726: Window Panel.032
+    2300728: Window Panel.033
+    2300730: Window Panel.034
+    2300732: Window Panel.035
+    2300734: Window Panel.036
+    2300736: Window Panel.037
+    2300738: Window Panel.038
+    2300740: Window.001
+    2300742: Window.002
+    2300744: Window.003
+    2300746: Window.004
+    2300748: Window.005
+    2300750: Window.006
+    2300752: Window.007
+    2300754: Window.008
+    2300756: Window.009
+    2300758: Window.010
+    2300760: Window.011
+    2300762: Window.012
+    2300764: Window.013
+    2300766: Window.014
+    2300768: Window.015
+    2300770: Window.016
+    2300772: Window.017
+    2300774: Window.018
+    2300776: Window.019
+    2300778: Window.020
+    2300780: Window.021
+    2300782: Window.022
+    2300784: Window.023
+    2300786: Window.024
+    2300788: Window.025
+    2300790: Window.026
+    3300000: Archipack_snap_helper
+    3300002: Archipack_snap_helper.001
+    3300004: Archipack_snap_helper.002
+    3300006: Cube
+    3300008: Cube.001
+    3300010: Cube.002
+    3300012: Cube.003
+    3300014: Cube.004
+    3300016: Cube.005
+    3300018: Cube.006
+    3300020: Cube.007
+    3300022: Cube.008
+    3300024: Cube.009
+    3300026: Cube.010
+    3300028: Cube.011
+    3300030: Cube.012
+    3300032: Cube.013
+    3300034: Cube.014
+    3300036: Cube.015
+    3300038: Cube.016
+    3300040: Cube.017
+    3300042: Cube.018
+    3300044: Cube.019
+    3300046: Cube.020
+    3300048: Cube.021
+    3300050: Cube.022
+    3300052: Cube.023
+    3300054: Cube.024
+    3300056: Cube.025
+    3300058: Cube.026
+    3300060: Cube.027
+    3300062: Cube.028
+    3300064: Cube.029
+    3300066: Cube.030
+    3300068: Cube.031
+    3300070: Cube.032
+    3300072: Cube.033
+    3300074: Cube.034
+    3300076: Cube.035
+    3300078: Cube.036
+    3300080: Cube.037
+    3300082: Cube.038
+    3300084: Cube.039
+    3300086: Cube.040
+    3300088: Cube.041
+    3300090: Cube.042
+    3300092: Cube.043
+    3300094: Cube.044
+    3300096: Cube.045
+    3300098: Cube.046
+    3300100: Cube.047
+    3300102: Cube.048
+    3300104: Cube.049
+    3300106: Cube.050
+    3300108: Cube.051
+    3300110: Cube.052
+    3300112: Cube.053
+    3300114: Cube.054
+    3300116: Cube.055
+    3300118: Cube.056
+    3300120: Cube.057
+    3300122: Cube.058
+    3300124: Cube.059
+    3300126: Cube.060
+    3300128: Cube.061
+    3300130: Cube.062
+    3300132: Cube.063
+    3300134: Cube.064
+    3300136: Cube.065
+    3300138: Cube.066
+    3300140: Cube.067
+    3300142: Cube.068
+    3300144: Cube.069
+    3300146: Cube.070
+    3300148: Cube.071
+    3300150: Cube.075
+    3300152: Cube.076
+    3300154: Cube.077
+    3300156: Cube.078
+    3300158: Cube.079
+    3300160: Cube.080
+    3300162: Cube.081
+    3300164: Cube.082
+    3300166: Cube.083
+    3300168: Cube.084
+    3300170: Cube.085
+    3300172: Cube.086
+    3300174: Cube.087
+    3300176: Cube.088
+    3300178: Cube.089
+    3300180: Cube.090
+    3300182: Cube.091
+    3300184: Cube.092
+    3300186: Cube.093
+    3300188: Cube.094
+    3300190: Cube.095
+    3300192: Cube.096
+    3300194: Cube.097
+    3300196: Cube.098
+    3300198: Cube.099
+    3300200: Cube.100
+    3300202: Cube.101
+    3300204: Cube.102
+    3300206: Cube.103
+    3300208: Cube.104
+    3300210: Cube.105
+    3300212: Cube.106
+    3300214: Cube.107
+    3300216: Cube.108
+    3300218: Cube.109
+    3300220: Cube.110
+    3300222: Cube.111
+    3300224: Cube.112
+    3300226: Cube.113
+    3300228: Cube.114
+    3300230: Cube.115
+    3300232: Cube.116
+    3300234: Cube.117
+    3300236: Cube.118
+    3300238: Cube.120
+    3300240: Cube.121
+    3300242: Cube.122
+    3300244: Cube.123
+    3300246: Cube.125
+    3300248: Cube.126
+    3300250: Cube.130
+    3300252: Cube.131
+    3300254: Cube.132
+    3300256: Cube.133
+    3300258: Cube.134
+    3300260: Cube.135
+    3300262: Cube.136
+    3300264: Cube.137
+    3300266: Cube.138
+    3300268: Cube.139
+    3300270: Cube.140
+    3300272: Cube.141
+    3300274: Cube.142
+    3300276: Cube.144
+    3300278: Cube.146
+    3300280: Cube.147
+    3300282: Cube.148
+    3300284: Cube.149
+    3300286: Cube.150
+    3300288: Cube.151
+    3300290: Cube.152
+    3300292: Cube.153
+    3300294: Cube.154
+    3300296: Cube.155
+    3300298: Cube.156
+    3300300: Cube.157
+    3300302: Cube.158
+    3300304: Cube.159
+    3300306: Cube.161
+    3300308: Cube.162
+    3300310: Cube.163
+    3300312: Cube.164
+    3300314: Cube.165
+    3300316: Cube.166
+    3300318: Cube.167
+    3300320: Cube.168
+    3300322: Cube.169
+    3300324: Cube.170
+    3300326: Cube.171
+    3300328: Cube.172
+    3300330: Cube.173
+    3300332: Cube.174
+    3300334: Cube.175
+    3300336: Cube.176
+    3300338: Cube.177
+    3300340: Cube.178
+    3300342: Cube.179
+    3300344: Cube.180
+    3300346: Cube.181
+    3300348: Cube.182
+    3300350: Cube.183
+    3300352: Cube.184
+    3300354: Cube.185
+    3300356: Cube.186
+    3300358: Cube.187
+    3300360: Cube.188
+    3300362: Cube.189
+    3300364: Cube.190
+    3300366: Cube.191
+    3300368: Cube.192
+    3300370: Cube.193
+    3300372: Cube.194
+    3300374: Cube.195
+    3300376: Cube.196
+    3300378: Cube.197
+    3300380: Cube.198
+    3300382: Cube.199
+    3300384: Cube.200
+    3300386: Cube.201
+    3300388: Cube.202
+    3300390: Cube.203
+    3300392: Cube.204
+    3300394: Cube.205
+    3300396: Cube.206
+    3300398: Cube.207
+    3300400: Cube.208
+    3300402: Cube.209
+    3300404: Cube.210
+    3300406: Cube.211
+    3300408: Cube.212
+    3300410: Cube.213
+    3300412: Cube.214
+    3300414: Cube.215
+    3300416: Cube.216
+    3300418: Cube.217
+    3300420: Cube.218
+    3300422: Cube.219
+    3300424: Cube.220
+    3300426: Cube.221
+    3300428: Cube.222
+    3300430: Cube.223
+    3300432: Cube.224
+    3300434: Cube.225
+    3300436: Cube.226
+    3300438: Cube.227
+    3300440: Cube.228
+    3300442: Cube.229
+    3300444: Cube.230
+    3300446: Cylinder
+    3300448: Cylinder.001
+    3300450: Door
+    3300452: Door.001
+    3300454: Door.002
+    3300456: Door.003
+    3300458: Door.004
+    3300460: Door.005
+    3300462: Door.006
+    3300464: Door.007
+    3300466: Door.008
+    3300468: Door.009
+    3300470: Door.010
+    3300472: Door.011
+    3300474: Door.012
+    3300476: Fence
+    3300478: Fence.001
+    3300480: Fence.002
+    3300482: Fence.003
+    3300484: Fence.004
+    3300486: Fence.005
+    3300488: Fence.006
+    3300490: Fence.007
+    3300492: Handle
+    3300494: Handle.001
+    3300496: Handle.002
+    3300498: Handle.003
+    3300500: Handle.004
+    3300502: Handle.005
+    3300504: Handle.006
+    3300506: Handle.007
+    3300508: Handle.008
+    3300510: Handle.009
+    3300512: Handle.010
+    3300514: Handle.011
+    3300516: Handle.012
+    3300518: Handle.013
+    3300520: Handle.014
+    3300522: Handle.015
+    3300524: Handle.016
+    3300526: Panel
+    3300528: Panel.001
+    3300530: Panel.002
+    3300532: Panel.003
+    3300534: Panel.004
+    3300536: Panel.005
+    3300538: Panel.006
+    3300540: Panel.007
+    3300542: Panel.008
+    3300544: Panel.009
+    3300546: Panel.010
+    3300548: Panel.011
+    3300550: Panel.012
+    3300552: Panel.013
+    3300554: Panel.014
+    3300556: Panel.015
+    3300558: Panel.016
+    3300560: Panel.017
+    3300562: Panel.018
+    3300564: Panel.019
+    3300566: Plane
+    3300568: Plane.001
+    3300570: Plane.002
+    3300572: Plane.003
+    3300574: Plane.004
+    3300576: Plane.005
+    3300578: Plane.006
+    3300580: Plane.007
+    3300582: Plane.008
+    3300584: Plane.009
+    3300586: Plane.010
+    3300588: Plane.011
+    3300590: Plane.012
+    3300592: Plane.013
+    3300594: Plane.014
+    3300596: Plane.015
+    3300598: Plane.016
+    3300600: Plane.017
+    3300602: Plane.018
+    3300604: Plane.019
+    3300606: Roof
+    3300608: Stair
+    3300610: Stair.001
+    3300612: Stair.002
+    3300614: Stair.003
+    3300616: Stair.004
+    3300618: Stair.005
+    3300620: Stair.006
+    3300622: Stair.007
+    3300624: Stair.008
+    3300626: Stair.009
+    3300628: Stair.010
+    3300630: Stair.011
+    3300632: Stairs
+    3300634: Stairs.001
+    3300636: Stairs.002
+    3300638: Stairs.003
+    3300640: Stairs.004
+    3300642: Stairs.005
+    3300644: Stairs.006
+    3300646: Truss
+    3300648: Truss.001
+    3300650: Truss.002
+    3300652: Truss.003
+    3300654: Truss.004
+    3300656: Truss.005
+    3300658: Window
+    3300660: Window Panel
+    3300662: Window Panel.000
+    3300664: Window Panel.001
+    3300666: Window Panel.002
+    3300668: Window Panel.003
+    3300670: Window Panel.004
+    3300672: Window Panel.005
+    3300674: Window Panel.006
+    3300676: Window Panel.007
+    3300678: Window Panel.008
+    3300680: Window Panel.009
+    3300682: Window Panel.010
+    3300684: Window Panel.011
+    3300686: Window Panel.012
+    3300688: Window Panel.013
+    3300690: Window Panel.014
+    3300692: Window Panel.015
+    3300694: Window Panel.016
+    3300696: Window Panel.017
+    3300698: Window Panel.018
+    3300700: Window Panel.019
+    3300702: Window Panel.020
+    3300704: Window Panel.021
+    3300706: Window Panel.022
+    3300708: Window Panel.023
+    3300710: Window Panel.024
+    3300712: Window Panel.025
+    3300714: Window Panel.026
+    3300716: Window Panel.027
+    3300718: Window Panel.028
+    3300720: Window Panel.029
+    3300722: Window Panel.030
+    3300724: Window Panel.031
+    3300726: Window Panel.032
+    3300728: Window Panel.033
+    3300730: Window Panel.034
+    3300732: Window Panel.035
+    3300734: Window Panel.036
+    3300736: Window Panel.037
+    3300738: Window Panel.038
+    3300740: Window.001
+    3300742: Window.002
+    3300744: Window.003
+    3300746: Window.004
+    3300748: Window.005
+    3300750: Window.006
+    3300752: Window.007
+    3300754: Window.008
+    3300756: Window.009
+    3300758: Window.010
+    3300760: Window.011
+    3300762: Window.012
+    3300764: Window.013
+    3300766: Window.014
+    3300768: Window.015
+    3300770: Window.016
+    3300772: Window.017
+    3300774: Window.018
+    3300776: Window.019
+    3300778: Window.020
+    3300780: Window.021
+    3300782: Window.022
+    3300784: Window.023
+    3300786: Window.024
+    3300788: Window.025
+    3300790: Window.026
+    4300000: Cube.133
+    4300002: Cube.132
+    4300004: Cube.131
+    4300006: Plane.004
+    4300008: Plane.003
+    4300010: Plane.002
+    4300012: Plane.001
+    4300014: Cube.130
+    4300016: Cube.126
+    4300018: Cube.125
+    4300020: Cube.123
+    4300022: Cube.122
+    4300024: Cube.121
+    4300026: Cube.120
+    4300028: Cube.118
+    4300030: Cube.117
+    4300032: Cube.116
+    4300034: Plane
+    4300036: Cube.115
+    4300038: Cube.114
+    4300040: Cube.113
+    4300042: Cube.112
+    4300044: Cube.111
+    4300046: Cube.110
+    4300048: Cube.109
+    4300050: Cube.108
+    4300052: Cube.107
+    4300054: Cube.106
+    4300056: Cube.105
+    4300058: Cube.104
+    4300060: Cube.103
+    4300062: Cube.102
+    4300064: Cube.101
+    4300066: Cube.100
+    4300068: Cube.099
+    4300070: Cube.098
+    4300072: Cube.097
+    4300074: Cube.096
+    4300076: Cube.095
+    4300078: Cube.094
+    4300080: Cube.093
+    4300082: Cube.092
+    4300084: Cube.091
+    4300086: Cube.090
+    4300088: Cube.089
+    4300090: Cube.088
+    4300092: Cube.087
+    4300094: Cube.086
+    4300096: Cube.085
+    4300098: Cube.084
+    4300100: Cube.083
+    4300102: Cube.082
+    4300104: Cube.081
+    4300106: Cube.080
+    4300108: Cube.079
+    4300110: Cube.078
+    4300112: Cube.077
+    4300114: Cube.076
+    4300116: Cube.075
+    4300118: Cube.071
+    4300120: Cube.070
+    4300122: Cube.069
+    4300124: Cube.068
+    4300126: Cube.067
+    4300128: Cube.066
+    4300130: Cube.065
+    4300132: Cube.064
+    4300134: Cube.063
+    4300136: Cube.062
+    4300138: Cube.061
+    4300140: Cube.060
+    4300142: Cube.059
+    4300144: Cube.058
+    4300146: Cube.057
+    4300148: Cube.056
+    4300150: Cube.055
+    4300152: Cube.054
+    4300154: Cube.052
+    4300156: Cube.051
+    4300158: Cube.053
+    4300160: Cube.050
+    4300162: Cube.049
+    4300164: Cube.048
+    4300166: Cube.047
+    4300168: Cube.046
+    4300170: Cube.045
+    4300172: Cube.044
+    4300174: Cube.043
+    4300176: Cube.042
+    4300178: Cube.041
+    4300180: Cube.040
+    4300182: Cube.039
+    4300184: Cube.038
+    4300186: Cube.037
+    4300188: Cube.036
+    4300190: Cube.022
+    4300192: Cube.021
+    4300194: Cube.035
+    4300196: Cube.034
+    4300198: Cube.033
+    4300200: Cube.032
+    4300202: Cube.031
+    4300204: Cube.030
+    4300206: Cube.029
+    4300208: Cube.027
+    4300210: Cube.026
+    4300212: Cube.025
+    4300214: Cube.024
+    4300216: Cube.023
+    4300218: Cube.020
+    4300220: Cube.019
+    4300222: Cube.018
+    4300224: Cube.017
+    4300226: Cube.016
+    4300228: Cube.015
+    4300230: Cube.014
+    4300232: Cube.013
+    4300234: Cube.012
+    4300236: Cube.011
+    4300238: Cube.010
+    4300240: Cube.009
+    4300242: Cube.008
+    4300244: Cube.007
+    4300246: Cube.006
+    4300248: Cube.005
+    4300250: Cube.004
+    4300252: Cube.003
+    4300254: Cube.002
+    4300256: Cube.001
+    4300258: Cube
+    4300260: Cube.147
+    4300262: Cube.148
+    4300264: Cube.149
+    4300266: Cube.150
+    4300268: Cube.151
+    4300270: Cube.152
+    4300272: Cube.153
+    4300274: Cube.157
+    4300276: Stairs.003
+    4300278: Stairs.002
+    4300280: Stairs.001
+    4300282: Stairs
+    4300284: Window
+    4300286: Window Panel.005
+    4300288: Handle.002
+    4300290: Window Panel.004
+    4300292: Window Panel.003
+    4300294: Window Panel.002
+    4300296: Handle.001
+    4300298: Window.001
+    4300300: Window Panel.006
+    4300302: Window Panel.007
+    4300304: Window.002
+    4300306: Window Panel.008
+    4300308: Window Panel.009
+    4300310: Window.003
+    4300312: Window Panel.010
+    4300314: Window Panel.011
+    4300316: Stairs.004
+    4300318: Stairs.005
+    4300320: Window.007
+    4300322: Window Panel.000
+    4300324: Window Panel.001
+    4300326: Window.008
+    4300328: Window Panel.014
+    4300330: Window Panel.015
+    4300332: Window.010
+    4300334: Window Panel.017
+    4300336: Window Panel.018
+    4300338: Stairs.006
+    4300340: Door.001
+    4300342: Panel.002
+    4300344: Handle.003
+    4300346: Panel.003
+    4300348: Door.002
+    4300350: Panel.004
+    4300352: Panel.005
+    4300354: Window.004
+    4300356: Window Panel.012
+    4300358: Handle.005
+    4300360: Window.005
+    4300362: Window Panel.013
+    4300364: Door
+    4300366: Panel
+    4300368: Handle
+    4300370: Panel.001
+    4300372: Door.003
+    4300374: Panel.006
+    4300376: Handle.004
+    4300378: Window.006
+    4300380: Door.004
+    4300382: Panel.007
+    4300384: Door.006
+    4300386: Panel.009
+    4300388: Handle.008
+    4300390: Door.007
+    4300392: Panel.010
+    4300394: Handle.009
+    4300396: Panel.011
+    4300398: Door.008
+    4300400: Panel.012
+    4300402: Handle.010
+    4300404: Panel.013
+    4300406: Door.009
+    4300408: Panel.014
+    4300410: Handle.011
+    4300412: Door.005
+    4300414: Panel.008
+    4300416: Handle.012
+    4300418: Panel.015
+    4300420: Window.009
+    4300422: Window Panel.016
+    4300424: Window.011
+    4300426: Window Panel.019
+    4300428: Roof
+    4300430: Window.012
+    4300432: Window Panel
+    4300434: Handle.006
+    4300436: Window.013
+    4300438: Window Panel.020
+    4300440: Door.010
+    4300442: Panel.016
+    4300444: Handle.007
+    4300446: Window.014
+    4300448: Window Panel.023
+    4300450: Handle.013
+    4300452: Window.015
+    4300454: Window Panel.024
+    4300456: Door.011
+    4300458: Panel.017
+    4300460: Handle.014
+    4300462: Window.016
+    4300464: Window.017
+    4300466: Window Panel.025
+    4300468: Handle.016
+    4300470: Window Panel.026
+    4300472: Window.018
+    4300474: Window Panel.027
+    4300476: Window Panel.028
+    4300478: Window.019
+    4300480: Window Panel.029
+    4300482: Window Panel.030
+    4300484: Door.012
+    4300486: Panel.018
+    4300488: Handle.015
+    4300490: Panel.019
+    4300492: Window.020
+    4300494: Window Panel.021
+    4300496: Window Panel.022
+    4300498: Window.021
+    4300500: Window Panel.031
+    4300502: Window Panel.032
+    4300504: Window.022
+    4300506: Window Panel.033
+    4300508: Window Panel.034
+    4300510: Stair
+    4300512: Stair.001
+    4300514: Fence
+    4300516: Fence.001
+    4300518: Fence.002
+    4300520: Truss
+    4300522: Truss.001
+    4300524: Fence.003
+    4300526: Fence.004
+    4300528: Fence.005
+    4300530: Fence.006
+    4300532: Stair.002
+    4300534: Stair.003
+    4300536: Stair.004
+    4300538: Stair.005
+    4300540: Stair.006
+    4300542: Stair.007
+    4300544: Stair.008
+    4300546: Stair.009
+    4300548: Stair.010
+    4300550: Stair.011
+    4300552: Fence.007
+    4300554: Truss.002
+    4300556: Truss.003
+    4300558: Truss.004
+    4300560: Truss.005
+    4300562: Window.023
+    4300564: Window Panel.035
+    4300566: Window.024
+    4300568: Window Panel.036
+    4300570: Window.025
+    4300572: Window Panel.037
+    4300574: Window.026
+    4300576: Window Panel.038
+    4300578: Cube.134
+    4300580: Cube.135
+    4300582: Cube.136
+    4300584: Cube.137
+    4300586: Plane.005
+    4300588: Cube.138
+    4300590: Cube.139
+    4300592: Cube.140
+    4300594: Cube.141
+    4300596: Cube.142
+    4300598: Cube.144
+    4300600: Cube.146
+    4300602: Plane.006
+    4300604: Plane.007
+    4300606: Archipack_snap_helper
+    4300608: Cube.154
+    4300610: Plane.008
+    4300612: Cube.155
+    4300614: Cube.156
+    4300616: Cube.028
+    4300618: Cube.158
+    4300620: Cube.159
+    4300622: Cube.161
+    4300624: Cube.162
+    4300626: Cube.163
+    4300628: Cube.164
+    4300630: Cube.165
+    4300632: Cube.166
+    4300634: Cube.167
+    4300636: Cube.168
+    4300638: Cube.169
+    4300640: Cube.170
+    4300642: Cube.171
+    4300644: Cube.172
+    4300646: Cube.173
+    4300648: Cube.174
+    4300650: Cube.175
+    4300652: Cube.176
+    4300654: Cube.177
+    4300656: Cube.178
+    4300658: Cube.179
+    4300660: Cube.180
+    4300662: Cube.181
+    4300664: Cube.182
+    4300666: Cube.183
+    4300668: Archipack_snap_helper.001
+    4300670: Cube.184
+    4300672: Plane.009
+    4300674: Plane.010
+    4300676: Plane.011
+    4300678: Cube.185
+    4300680: Cube.186
+    4300682: Cube.187
+    4300684: Cube.188
+    4300686: Cube.189
+    4300688: Cube.190
+    4300690: Cube.191
+    4300692: Cube.192
+    4300694: Cube.193
+    4300696: Cube.194
+    4300698: Cube.195
+    4300700: Cube.196
+    4300702: Cube.197
+    4300704: Cube.198
+    4300706: Plane.012
+    4300708: Plane.013
+    4300710: Cube.199
+    4300712: Cylinder
+    4300714: Cylinder.001
+    4300716: Cube.200
+    4300718: Cube.201
+    4300720: Cube.202
+    4300722: Cube.203
+    4300724: Plane.014
+    4300726: Plane.015
+    4300728: Cube.204
+    4300730: Cube.205
+    4300732: Cube.206
+    4300734: Plane.016
+    4300736: Cube.207
+    4300738: Cube.208
+    4300740: Cube.209
+    4300742: Cube.210
+    4300744: Cube.211
+    4300746: Cube.212
+    4300748: Cube.213
+    4300750: Cube.214
+    4300752: Cube.215
+    4300754: Cube.216
+    4300756: Cube.217
+    4300758: Cube.218
+    4300760: Cube.219
+    4300762: Cube.220
+    4300764: Cube.221
+    4300766: Cube.222
+    4300768: Cube.223
+    4300770: Cube.224
+    4300772: Cube.225
+    4300774: Cube.226
+    4300776: Cube.227
+    4300778: Cube.228
+    4300780: Cube.229
+    4300782: Cube.230
+    4300784: Plane.017
+    4300786: Plane.018
+    4300788: Archipack_snap_helper.002
+    4300790: Plane.019
+    10800000: Area.000
+    10800002: Area.001
+    10800004: Area.003
+    10800006: Area.004
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
